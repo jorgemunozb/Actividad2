@@ -1,0 +1,100 @@
+    
+    
+    a{
+    color: rgb(255, 255, 255);
+    }
+    a:link{
+    text-decoration: none;     
+    }
+    a:hover {
+    color: #686464;
+    cursor: pointer;
+    }
+
+    #color{
+        background-color: black;
+        border:grey;
+        ;
+    }
+    #contenedor {
+    display: table;
+    border-spacing: 0px;
+    margin:0px;
+    }
+    #contenidos {
+    display:block;
+    }
+    #principal{
+    display: table-cell;
+    }
+    #secundario{
+        display:table-cell;
+        height: 570px;
+        width: 320px;
+        background-color: rgb(58, 53, 53);
+        padding:30px;
+        border-spacing: 0px;
+
+
+    }
+
+    #lateral {
+        display:table-cell;
+        height: 560px;
+        width: 100px;
+        background-color: rgb(58, 53, 53);
+
+    }
+    #display{
+        display:table-row;
+        font-family: sans-serif;
+        color: white;
+
+    }
+    #propiedades1{
+        height: 160px;
+        background-color: rgb(4, 205, 255);
+        width: 1000px;
+        padding: 12px;
+
+    }
+
+    #propiedades2{
+        height: 160px;
+        background-color: rgb(241, 245, 11);
+        width: 1000px;
+        padding: 12px;
+
+    }
+
+    #propiedades3{
+        height: 160px;
+        background-color: rgb(252, 96, 6);
+        width: 1000px;
+        padding: 12px;
+
+    }
+
+    #propiedades4{
+        height: 160px;
+        background-color: rgb(252, 6, 6);
+        width: 1000px;
+        padding: 12px;
+        
+    }
+    #amarillo{
+        background-color: yellow;
+        height: 1000px;
+        width: 1000px;
+    }
+
+    #naranjo{
+        background-color: orangered;
+        height: 1000px;
+        width: 1000px;
+    }
+    #rojo{
+        background-color: red;
+        height: 1000px;
+        width: 1000px;
+    }
